@@ -1,3 +1,6 @@
+# PROJECT
+.vscode
+
 # NEST API
 # compiled output
 api/dist
@@ -56,3 +59,4 @@ api/*.pid.lock
 # Diagnostic reports (https://nodejs.org/api/report.html)
 api/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+#FRONTEND
